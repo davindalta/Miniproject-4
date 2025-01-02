@@ -16,7 +16,7 @@
 1. Buat satu folder yang berisi semua file project
 2. Aktifkan Apache Kafka, MongoDB, PostgreSQL
 3. Buat script/notebook untuk melakukan dump data Old Information ke PostgreSQL
-4. Buat script/notebook untuk menjalankan producer, mengirim data New_information.csv ke Apache Kafka
+4. Buat script/notebook untuk menjalankan producer, mengirim data <a href="https://drive.google.com/file/d/16maVHKrCYv3vzMmhgeK5M-Zo8Rd9uM5V/view?usp=drive_link" target="_blank">New_information.csv</a> ke Apache Kafka
 5. Buat script / notebook untuk menjalankan consumer, mengambil data New Information dari Apache Kafka
 6. Data New Information digabungkan dengan Old Information dari PostgreSQL
 7. Hasil gabungan data kemudian diolah menjadi Feature Vector untuk di input kedalam model Machine Learning untuk mendapatkan hasil prediksi
